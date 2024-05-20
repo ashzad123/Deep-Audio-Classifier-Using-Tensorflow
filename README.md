@@ -18,6 +18,9 @@ evaluation/: Scripts for evaluating model performance using various metrics.
 deployment/: Scripts for deploying the trained models and running inference.
 results/: Directory where results, including the CSV file, are stored.
 
+**Dataset Link:**
+https://www.kaggle.com/datasets/kenjee/z-by-hp-unlocked-challenge-3-signal-processing
+
 **Google Collab File:**
 https://colab.research.google.com/drive/1HtfEXgsOfQA1KI-Tr6lnl_P74BPMxbN-#scrollTo=KjSttlTDJMHg
 
